@@ -12,9 +12,8 @@ token_data = []
 
 # Programm starten
 choice = 0
-rtzrtztr
 
-# Auswahlmöglichkeiten #
+# Auswahlmöglichkeiten
 while choice == 0:
     print("PassGen v1.0 Sandro Zappulla")
     print("1. Passwörter")
