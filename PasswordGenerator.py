@@ -12,6 +12,7 @@ token_data = []
 
 # Programm starten
 choice = 0
+rtzrtztr
 
 # Auswahlmöglichkeiten #
 while choice == 0:
